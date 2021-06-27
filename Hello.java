@@ -1,5 +1,5 @@
-public class Hello{
-  public static void main(string[] args{
-    System.out.println("Hello Imran the test is working in jenkins";
-  }
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, Imran this is jenkins test"); 
+    }
 }
