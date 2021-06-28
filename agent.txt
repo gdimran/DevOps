@@ -1,0 +1,2 @@
+echo 465c280d6f0ab7f6cd797dd0d7af757f37e513afaa6b3e271dce5bc815c2e0e5 > secret-file
+java -jar agent.jar -jnlpUrl http://localhost:8080/computer/jenkins_node/jenkins-agent.jnlp -secret @secret-file -workDir "I:\DevOps\jenkinsnode"
