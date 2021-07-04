@@ -5,5 +5,5 @@ kubeadm join 192.168.0.102:6443 --token afrttk.os41mtr5hwb1urcs \
 kubeadm join 192.168.0.102:6443 --token z31o5f.1p2maizgu3xyqrb9 \
 	--discovery-token-ca-cert-hash sha256:334d87584a092b0d88a0baeb8ea7424b6fc25bf4ee6b37eb9dc859c083786f33
 	
-	kubeadm join 192.168.0.102:6443 --token ixg29c.491pxo38son96y7k \
+kubeadm join 192.168.0.102:6443 --token ixg29c.491pxo38son96y7k \
 	--discovery-token-ca-cert-hash sha256:334d87584a092b0d88a0baeb8ea7424b6fc25bf4ee6b37eb9dc859c083786f33 
