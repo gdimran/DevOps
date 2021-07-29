@@ -1,0 +1,2 @@
+﻿java -jar agent.jar -jnlpUrl http://localhost:8080/computer/Test%20server/jenkins-agent.jnlp -secret 0fb1985fc20e35ca14b36c378fe2413199a73ddc303200c4244f7b84a860172d -workDir "/home/imran/"
+
