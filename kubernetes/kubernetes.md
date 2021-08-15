@@ -2,6 +2,7 @@
 First of all create a ec2 instance, I took AWS linux.
 
 ### Create a IAM Role with all a name and allow all roles like bellow
-
+![role]
+(https://github.com/gdimran/DevOps/blob/main/kubernetes/role.JPG)
 
 ### Configure aws in
