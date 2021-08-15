@@ -27,7 +27,7 @@ python --version
 
 ```
 
-###Installing ansible in ansible master instance
+### Installing ansible in ansible master instance
 Run below commands as root user
 
 ```
